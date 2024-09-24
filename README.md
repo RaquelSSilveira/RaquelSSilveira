@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @RaquelSSilveira
 - 👀 I’m interested in programming
+- 💻 Dev Full Stack
+- 🌱 Learning Power BI 
 - 🌱 I’m currently learning html5 and python
 
 
