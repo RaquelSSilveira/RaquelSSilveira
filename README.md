@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RaquelSSilveira
 - 👀 I’m interested in programming
 - 💻 Dev Full Stack
-- 🌱 Learning Power BI 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning REACT and .NET
 
 
 <!---
